@@ -1,0 +1,23 @@
+{
+  "name": "asesoria-pld",
+  "version": "1.0.0",
+  "description": "Asesoría PLD - Especialistas en Cumplimiento de Normas de la UIF",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000 --open=/",
+    "start": "live-server --port=3000 --open=/"
+  },
+  "keywords": [
+    "UIF",
+    "compliance",
+    "lavado de activos",
+    "asesoría",
+    "normativas financieras",
+    "Argentina"
+  ],
+  "author": "Asesoría PLD",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
